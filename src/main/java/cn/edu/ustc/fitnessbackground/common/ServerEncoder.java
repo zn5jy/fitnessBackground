@@ -18,7 +18,7 @@ public class ServerEncoder implements Encoder.Text<CameraResponseDTO> {
 
     /**
      * 这里的参数 hashMap 要和  Encoder.Text<T>保持一致
-     * @param CameraResponseDTO
+     * @param CameraResponseDTO 返回数据实体
      * @return
      */
     @Override
